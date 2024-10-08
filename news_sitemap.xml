@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <element array="true">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"&gt;
+
+  &lt;url&gt;
+    &lt;loc&gt;https://www.yourblog.com/post1-url&lt;/loc&gt;
+    &lt;news:news&gt;
+      &lt;news:publication&gt;
+        &lt;news:name&gt;Your Blog Name&lt;/news:name&gt;
+        &lt;news:language&gt;en&lt;/news:language&gt;
+      &lt;/news:publication&gt;
+      &lt;news:publication_date&gt;2024-10-06&lt;/news:publication_date&gt;
+      &lt;news:title&gt;Post Title 1&lt;/news:title&gt;
+    &lt;/news:news&gt;
+  &lt;/url&gt;
+
+  &lt;url&gt;
+    &lt;loc&gt;https://www.yourblog.com/post2-url&lt;/loc&gt;
+    &lt;news:news&gt;
+      &lt;news:publication&gt;
+        &lt;news:name&gt;Your Blog Name&lt;/news:name&gt;
+        &lt;news:language&gt;en&lt;/news:language&gt;
+      &lt;/news:publication&gt;
+      &lt;news:publication_date&gt;2024-10-07&lt;/news:publication_date&gt;
+      &lt;news:title&gt;Post Title 2&lt;/news:title&gt;
+    &lt;/news:news&gt;
+  &lt;/url&gt;
+  
+  &lt;!-- Add more URLs similarly --&gt;
+
+&lt;/urlset&gt;</element>
+</root>
