@@ -1,34 +1,303 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-  <element array="true">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"&gt;
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  &lt;url&gt;
-    &lt;loc&gt;https://www.yourblog.com/post1-url&lt;/loc&gt;
-    &lt;news:news&gt;
-      &lt;news:publication&gt;
-        &lt;news:name&gt;Your Blog Name&lt;/news:name&gt;
-        &lt;news:language&gt;en&lt;/news:language&gt;
-      &lt;/news:publication&gt;
-      &lt;news:publication_date&gt;2024-10-06&lt;/news:publication_date&gt;
-      &lt;news:title&gt;Post Title 1&lt;/news:title&gt;
-    &lt;/news:news&gt;
-  &lt;/url&gt;
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/box-office-failure-joker-folie-deux.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-07</news:publication_date>
+        <news:title>Box Office Failure Joker  Folie à Deux</news:title>
+      </news:news>
+    </url>
 
-  &lt;url&gt;
-    &lt;loc&gt;https://www.yourblog.com/post2-url&lt;/loc&gt;
-    &lt;news:news&gt;
-      &lt;news:publication&gt;
-        &lt;news:name&gt;Your Blog Name&lt;/news:name&gt;
-        &lt;news:language&gt;en&lt;/news:language&gt;
-      &lt;/news:publication&gt;
-      &lt;news:publication_date&gt;2024-10-07&lt;/news:publication_date&gt;
-      &lt;news:title&gt;Post Title 2&lt;/news:title&gt;
-    &lt;/news:news&gt;
-  &lt;/url&gt;
-  
-  &lt;!-- Add more URLs similarly --&gt;
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/hurricane-milton-tracker-florida.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-07</news:publication_date>
+        <news:title>Hurricane Milton Tracker: A Florida Growing Threat</news:title>
+      </news:news>
+    </url>
 
-&lt;/urlset&gt;</element>
-</root>
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/grigg-shares-heartfelt-anniversary.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-06</news:publication_date>
+        <news:title>Grigg Shares Heartfelt Anniversary Tribute Weeks Before Her Sudden Death</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/israel-steps-up-attacks-in-lebanon-as.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-06</news:publication_date>
+        <news:title>Israel Steps Up Attacks in Lebanon as Fighting Spreads Across the Region</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/donald-trumps-return-to-pennsylvania.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-05</news:publication_date>
+        <news:title>Donald Trump's Return to Pennsylvania: A Defining Moment in the 2024 Presidential Race</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/trump-urges-israel-to-target-irans.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-05</news:publication_date>
+        <news:title>Trump Urges Israel to Target Iran's Nuclear Facilities, Criticizes Biden's Response</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/britain-cedes-disputed-islands-to.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-04</news:publication_date>
+        <news:title>Britain Cedes Disputed Islands to Mauritius, Secures Strategic U.S. Military Base</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/england-squad-tottenhams-dominic.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-03</news:publication_date>
+        <news:title>England Squad: Tottenham's Dominic Solanke Picked by Lee Carsley</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/biden-student-loan-forgiveness-plan.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-03</news:publication_date>
+        <news:title>Biden student loan forgiveness plan gets win in Georgia court docket</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/what-goals-is-israel-pursuing-with-its.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-03</news:publication_date>
+        <news:title>What  goals is Israel pursuing with its invasion of southern Lebanon</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/bank-of-america-customers-are-facing.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-02</news:publication_date>
+        <news:title>Bank of America customers are facing an outage, with many reporting that their account balances are completely blank</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/millie-bobby-brown-and-jake-bongiovi.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-02</news:publication_date>
+        <news:title>Millie Bobby Brown and Jake Bongiovi Reveal Stunning Photos from Their Italian Wedding Forever and Always</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/florida-enforces-law-banning-homeless.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-02</news:publication_date>
+        <news:title>Florida Enforces Law Banning Homeless Camping in Public Spaces</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/pauley-perrette-former-ncis-star-opens.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-02</news:publication_date>
+        <news:title>Pauley Perrette, Former ‘NCIS’ Star, Opens Up About Life After Quitting Acting</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/robbie-williams-transformed-into.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-02</news:publication_date>
+        <news:title>Robbie Williams Transformed into a Singing CGI Monkey in Better Man Biopic</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/john-amos-beloved-actor-and-good-times.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-01</news:publication_date>
+        <news:title>John Amos, Beloved Actor and ‘Good Times’ Star, Passes Away at 84</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/american-pickers-star-frank-fritz.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-01</news:publication_date>
+        <news:title>American Pickers' Star Frank Fritz Passes Away</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/10/tua-tagovailoas-long-concussion-history.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-01</news:publication_date>
+        <news:title>Tua Tagovailoa’s Long Concussion History: Another Setback for the Dolphins QB</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/09/tropical-depression-may-form-in-gulf.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-09-30</news:publication_date>
+        <news:title>Tropical Depression May Form in Gulf This Weekend: Here’s Why Texas Might Avoid It</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/09/verizon-outage-affects-users-nationwide.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-09-30</news:publication_date>
+        <news:title>Verizon outage affects users nationwide: Reports of texting and calling issues</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/09/oasis-announce-global-tour-with-stops.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-09-30</news:publication_date>
+        <news:title>Oasis Announce Global Tour with Stops in the US, Canada, and Mexico</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/09/avl-flights-canceled-travelers-urged-to.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-09-29</news:publication_date>
+        <news:title>AVL flights canceled, travelers urged to check with airlines</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/09/netanyahu-sets-agenda-in-middle-east.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-09-29</news:publication_date>
+        <news:title>Netanyahu Sets the Agenda in the Middle East, Not Biden</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/09/helene-claims-dozens-of-lives-as.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-09-28</news:publication_date>
+        <news:title>Helene Claims Dozens of Lives as Catastrophic Flooding Ravages Communities; Tennessee Dam on the Brink of Collapse</news:title>
+      </news:news>
+    </url>
+
+    <url>
+      <loc>https://erumeducationpdfnotes.blogspot.com/2024/09/japans-new-prime-minister-shigeru-ishiba.html</loc>
+      <news:news>
+        <news:publication>
+          <news:name>Erum Education</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-09-27</news:publication_date>
+        <news:title>Japan's New Prime Minister: Shigeru Ishiba</news:title>
+      </news:news>
+    </url>
